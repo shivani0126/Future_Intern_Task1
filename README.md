@@ -1,5 +1,7 @@
 # Future_Intern_Task1
-Perform Data Cleaning- Clean a dataset by removing missing values and outliers
+This the description of my first task in Future Intern
+Task-2:Perform Data Cleaning- Clean a dataset by removing missing values and outliers
+Steps involved-
 a) To identify and treat missing values(using filters in excel)
    -> identify missing values
         * Count total number of values in each column
